@@ -1,0 +1,5 @@
+#List of materials that can be used to tame entities
+#Format: entity-ingredient,'minecraft:wolf-{'item':'minecraft:bone'}'
+tamingMaterials = []
+#Whether or not to allow entities within the Team to attack themselves
+allowDamageSelf = true
