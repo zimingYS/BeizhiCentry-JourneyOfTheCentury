@@ -1,6 +1,6 @@
 {
-  "configVersion": 11,
-  "animationSmoothingSpeed": 0.2,
+  "configVersion": 10,
+  "animationSmoothingSpeed": 0.1,
   "holdingItems": [
     "minecraft:clock",
     "minecraft:recovery_compass",
@@ -46,5 +46,5 @@
   "narutoRunning": false,
   "enableInWorldBookRendering": false,
   "disableLegSmoothing": false,
-  "bowAnimation": "VANILLA"
+  "bowAnimation": "CUSTOM_V1"
 }

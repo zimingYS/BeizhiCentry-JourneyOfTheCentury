@@ -44,7 +44,7 @@
 
 ["Purity-related Effects"]
 	#Purity for drinks that normally have purity but for whatever reason don't have a value set
-	defaultPurity = 3
+	defaultPurity = 2
 	#Whether player should gain hydration even if they recieved a purity-related debuff
 	quenchThirstWhenDebuffed = true
 	#% of getting poisoned after drinking dirty water
