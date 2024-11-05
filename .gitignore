@@ -26,3 +26,4 @@ PCL
 .minecraft/usernamecache.json
 .minecraft/config
 !.minecraft/config/thirst
+.minecraft/crash-reports
